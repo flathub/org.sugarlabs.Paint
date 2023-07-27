@@ -1,9 +1,9 @@
 {
     "app-id": "org.sugarlabs.Paint",
     "base": "org.sugarlabs.BaseApp",
-    "base-version": "22.06",
+    "base-version": "23.06",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "42",
+    "runtime-version": "44",
     "sdk": "org.gnome.Sdk",
     "separate-locales": false,
     "command": "sugarapp",
@@ -26,7 +26,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/paint-activity.git",
-                    "commit": "d090a2551281a6600e929fd4858ffb45e022031c"
+                    "commit": "f436aa44c5dd278294100d188e46fd962f8217a0"
                 },
                 {
                     "type": "patch",
