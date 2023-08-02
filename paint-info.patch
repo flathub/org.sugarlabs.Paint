@@ -1,11 +1,11 @@
 diff --git a/activity/activity.info b/activity/activity.info
-index 6933331..745a3ab 100644
+index 77f2e56..9173e41 100644
 --- a/activity/activity.info
 +++ b/activity/activity.info
 @@ -1,12 +1,19 @@
  [Activity]
  name = Paint
- activity_version = 70
+ activity_version = 71
 -bundle_id = org.laptop.Oficina
 +release_date = 2020-02-21
 +bundle_id = org.sugarlabs.Paint

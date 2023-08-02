@@ -26,7 +26,12 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/paint-activity.git",
-                    "commit": "f436aa44c5dd278294100d188e46fd962f8217a0"
+                    "tag": "v71",
+                    "commit": "7d27532b9aeccf9830261bf2939f49ce2bac47c8",
+                    "x-checker-data": {
+                        "type": "git",
+                        "tag-pattern": "^v([\\d.]+)$"
+                    }
                 },
                 {
                     "type": "patch",
