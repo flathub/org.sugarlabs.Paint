@@ -2,7 +2,7 @@ diff --git a/activity/activity.info b/activity/activity.info
 index 77f2e56..9173e41 100644
 --- a/activity/activity.info
 +++ b/activity/activity.info
-@@ -1,12 +1,19 @@
+@@ -1,12 +1,20 @@
  [Activity]
  name = Paint
  activity_version = 71
@@ -25,4 +25,5 @@ index 77f2e56..9173e41 100644
 +url = https://help.sugarlabs.org/en/paint.html
 +update_contact = tch@sugarlabs.org
 +developer_name = Sugar Labs Community
++developer_id = org.sugarlabs
 +screenshots = https://raw.githubusercontent.com/sugarlabs/paint-activity/master/screenshots/en/1.png
