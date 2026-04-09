@@ -15,6 +15,9 @@
         "--env=SUGAR_BUNDLE_ID=org.sugarlabs.Paint",
         "--env=SUGAR_BUNDLE_PATH=/app/share/sugar/activities/Paint.activity"
     ],
+    "cleanup-commands": [
+      "rm -rf /app/share/gir-1.0"
+    ],    
     "modules": [
         {
             "name": "paint",
